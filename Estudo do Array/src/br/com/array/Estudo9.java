@@ -7,8 +7,8 @@ public class Estudo9 {
 	public static void main(String[] args) {
 		String[][] agenda = { 
 				{ "Giovane", "1111-1111", "giovane.franciscoforl@gmail.com" },
-				{ "Luiza"  , "2222-2222", "luizinhafofa@gmail.com         " },
-				{ "Deboráh", "3333-3333", "debprahzinhaflor@outlook.com   " } 
+				{ "Luiza"  , "2222-2222", "luiza@gmail.com         " },
+				{ "Deboráh", "3333-3333", "debora@outlook.com   " } 
 				};
 		// Cria um array com 3 linhas e 3 colunas, definindo os valores para cada com
 
